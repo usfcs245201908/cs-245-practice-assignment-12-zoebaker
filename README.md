@@ -1,3 +1,3 @@
-# CS 245 (Spring 2019) Practice Assignment 11
+# CS 245 (Fall 2019) Practice Assignment 12
 
-Starter code (testing class / interface) for P11 (Hashtable implementation). See assignment details on Canvas.
+Starter code (testing class / interface) for P12 (Hashtable implementation). See assignment details on Canvas.
